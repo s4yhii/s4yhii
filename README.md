@@ -43,4 +43,4 @@
 - [Bashed Hackthebox machine](https://s4yhii.github.io/posts/bashed-htb/)
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=s4yhii.s4yhii)
