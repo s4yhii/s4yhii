@@ -30,11 +30,11 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+🌱 I’m currently studying Systems Engineering at National University of Engineering </br>
+👨‍💻  I am passionate about Cybersecurity, Python Programming & I enjoy learning new things. </br>
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Jesus github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Jesus Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
