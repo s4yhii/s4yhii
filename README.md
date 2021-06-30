@@ -33,14 +33,14 @@
 🌱 I’m currently studying Systems Engineering at National University of Engineering </br>
 👨‍💻  I am passionate about Cybersecurity, Python Programming & I enjoy learning new things. </br>
 
-![Jesus github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Jesus Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Jesus github stats](https://github-readme-stats.vercel.app/api?username=s4yhii&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Jesus Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s4yhii&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
 ### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
+- [Scriptkiddie Hackthebox machine](https://s4yhii.github.io/posts/scriptkiddie-htb/)
+- [Bashed Hackthebox machine](https://s4yhii.github.io/posts/bashed-htb/)
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
