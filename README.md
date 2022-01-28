@@ -31,8 +31,8 @@
 
 ### About Me 🚀
 🌱 I’m currently studying Systems Engineering at National University of Engineering </br>
-👨‍💻  I am passionate about Cybersecurity, Cloud Securit & Python Programming & I enjoy learning new things. </br>
-🌱 I’m currently studying for the OSCP exam </br>
+👨‍💻 I am passionate about Cybersecurity, Cloud Securit & Python Programming & I enjoy learning new things. </br>
+🌱 I’m currently studying for the OSCP and AWS SAA exams </br>
 
 ![Jesus github stats](https://github-readme-stats.vercel.app/api?username=s4yhii&show_icons=true&hide_border=truet&theme=gotham)
 ![Jesus Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s4yhii&layout=compact&langs_count=8&hide_border=true&theme=gotham)
