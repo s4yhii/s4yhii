@@ -31,7 +31,7 @@
 
 ### About Me 🚀
 🌱 I’m currently Security Engineer and Penetration Tester, securing applications through SDLC </br>
-👨‍💻 I do CTFs and have a blog in http://s4yhii.github.io, feel free to ask and gave feedback </br>
+👨‍💻 I do CTFs and have a blog in http://s4yhii.github.io, feel free to ask and give feedback </br>
 🌱 I’m currently studying for the OSCP and OSWE exams </br>
 
 ![Jesus github stats](https://github-readme-stats.vercel.app/api?username=s4yhii&show_icons=true&hide_border=truet&theme=gotham)
