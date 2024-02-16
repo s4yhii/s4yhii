@@ -41,9 +41,9 @@
 
 
 ### 📕 Blog Posts
-- [Web Cache Poisoning](https://www.credly.com/users/jesus-enrique-lujan-montufar.6c7c4131/badges](https://s4yhii.github.io/posts/Web-Cache-Poisoning/)
-- [Vulnerabilities in Python Code](https://s4yhii.github.io/posts/Vuln-Scan-With-Nessus-in-AWS/](https://s4yhii.github.io/posts/Injections-in-Python/)
-- [AZ-900 Notes](https://s4yhii.github.io/posts/scriptkiddie-htb/](https://s4yhii.github.io/posts/Azure-Fundamentals-Notes/)
+- [Web Cache Poisoning](https://s4yhii.github.io/posts/Web-Cache-Poisoning/)
+- [Vulnerabilities in Python Code](https://s4yhii.github.io/posts/Injections-in-Python/)
+- [AZ-900 Notes](https://s4yhii.github.io/posts/Azure-Fundamentals-Notes/)
 - [Bashed Hackthebox machine](https://s4yhii.github.io/posts/bashed-htb/)
 <br/>
 
