@@ -30,9 +30,9 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m currently Security Engineer and Penetration Tester, securing applications through SDLC </br>
+🌱 I’m currently Senior Appsec Engineer, securing applications through SDLC, pentesting, threat modeling, code review, etc </br>
 👨‍💻 I do CTFs and have a blog in http://s4yhii.github.io, feel free to ask and give feedback </br>
-🌱 I’m currently studying for the OSCP and OSWE exams </br>
+🌱 I’m currently OSCP+ | CBBH | eWTPX | eCPPT | eMAPT </br>
 
 ![Jesus github stats](https://github-readme-stats.vercel.app/api?username=s4yhii&show_icons=true&hide_border=truet&theme=gotham)
 ![Jesus Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=s4yhii&layout=compact&langs_count=8&hide_border=true&theme=gotham)
